@@ -1,0 +1,11 @@
+Model: Decision Tree
+Accuracy=0.7400
+
+              precision    recall  f1-score   support
+
+        Fail       0.72      0.81      0.76        52
+        Pass       0.76      0.67      0.71        48
+
+    accuracy                           0.74       100
+   macro avg       0.74      0.74      0.74       100
+weighted avg       0.74      0.74      0.74       100

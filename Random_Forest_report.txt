@@ -1,0 +1,11 @@
+Model: Random Forest
+Accuracy=0.8200
+
+              precision    recall  f1-score   support
+
+        Fail       0.80      0.87      0.83        52
+        Pass       0.84      0.77      0.80        48
+
+    accuracy                           0.82       100
+   macro avg       0.82      0.82      0.82       100
+weighted avg       0.82      0.82      0.82       100

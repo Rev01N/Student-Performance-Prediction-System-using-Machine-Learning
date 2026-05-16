@@ -1,0 +1,11 @@
+Model: SVM
+Accuracy=0.7900
+
+              precision    recall  f1-score   support
+
+        Fail       0.79      0.81      0.80        52
+        Pass       0.79      0.77      0.78        48
+
+    accuracy                           0.79       100
+   macro avg       0.79      0.79      0.79       100
+weighted avg       0.79      0.79      0.79       100
